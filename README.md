@@ -21,12 +21,6 @@
 | **Hardware & IoT** | Arduino, Raspberry Pi, STM32, Sensors (LiDAR, IMU, Cameras) |
 
 ---
-
-### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuLily02&theme=red-line" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuLily02&theme=blood" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/AnuLily02/AnuLily02/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
