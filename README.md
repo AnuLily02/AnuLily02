@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/banner1.gif" alt="Anupama's Banner" width="100%">
+  <img src="./assets/banner2.gif" alt="Anupama's Banner" width="100%">
 </p>
 
 # Hi, I'm Anupama! 👋
