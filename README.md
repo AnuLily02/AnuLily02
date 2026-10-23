@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="./assets/banner1.gif" alt="Anupama's Banner" width="100%">
 </p>
+
 # Hi, I'm Anupama! 👋
 ### Aspiring AI & Robotics Engineer | AI, ML, Data Analytics & Autonomous Systems
 
