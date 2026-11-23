@@ -19,5 +19,3 @@
 | **AI, ML & Data Analytics** | PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV, Natural Language Processing |
 | **Robotics & Automation** | ROS / ROS 2, Gazebo Simulator, Control Systems, Microcontrollers |
 | **Hardware & IoT** | Arduino, Raspberry Pi, STM32, Sensors (LiDAR, IMU, Cameras)|
-
-
